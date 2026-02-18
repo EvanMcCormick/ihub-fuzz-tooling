@@ -1,0 +1,7 @@
+homepage: "https://github.com/InspireHUB/IHUB_Platform"
+language: csharp
+primary_contact: "evan@inspirehub.com"
+fuzzing_engines:
+  - libfuzzer
+sanitizers:
+  - none
